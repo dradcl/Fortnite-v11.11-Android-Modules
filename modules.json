@@ -1,0 +1,1556 @@
+[
+  {
+    "name": "app_process64",
+    "base": "0x64659a2000",
+    "size": 204800,
+    "path": "/system/bin/app_process64"
+  },
+  {
+    "name": "libTcpOptimizer.mobiledata.samsung.so",
+    "base": "0x6fc6f98000",
+    "size": 135168,
+    "path": "/system/lib64/libTcpOptimizer.mobiledata.samsung.so"
+  },
+  {
+    "name": "libandroid_runtime.so",
+    "base": "0x6fc9680000",
+    "size": 2359296,
+    "path": "/system/lib64/libandroid_runtime.so"
+  },
+  {
+    "name": "libbinder.so",
+    "base": "0x6fcad94000",
+    "size": 704512,
+    "path": "/system/lib64/libbinder.so"
+  },
+  {
+    "name": "libcutils.so",
+    "base": "0x6fc7a86000",
+    "size": 200704,
+    "path": "/system/lib64/libcutils.so"
+  },
+  {
+    "name": "libhwbinder.so",
+    "base": "0x6fcac8a000",
+    "size": 184320,
+    "path": "/system/lib64/libhwbinder.so"
+  },
+  {
+    "name": "liblog.so",
+    "base": "0x6fc7e87000",
+    "size": 200704,
+    "path": "/system/lib64/liblog.so"
+  },
+  {
+    "name": "libnativeloader.so",
+    "base": "0x6fca486000",
+    "size": 135168,
+    "path": "/system/lib64/libnativeloader.so"
+  },
+  {
+    "name": "libutils.so",
+    "base": "0x6fc9c80000",
+    "size": 200704,
+    "path": "/system/lib64/libutils.so"
+  },
+  {
+    "name": "libwilhelm.so",
+    "base": "0x6fc8915000",
+    "size": 376832,
+    "path": "/system/lib64/libwilhelm.so"
+  },
+  {
+    "name": "libc++.so",
+    "base": "0x6fc6542000",
+    "size": 1011712,
+    "path": "/system/lib64/libc++.so"
+  },
+  {
+    "name": "libc.so",
+    "base": "0x6fc898a000",
+    "size": 1163264,
+    "path": "/system/lib64/libc.so"
+  },
+  {
+    "name": "libm.so",
+    "base": "0x6fc80d0000",
+    "size": 331776,
+    "path": "/system/lib64/libm.so"
+  },
+  {
+    "name": "libdl.so",
+    "base": "0x6fcae9c000",
+    "size": 135168,
+    "path": "/system/lib64/libdl.so"
+  },
+  {
+    "name": "libpersona.so",
+    "base": "0x6fc830f000",
+    "size": 135168,
+    "path": "/system/lib64/libpersona.so"
+  },
+  {
+    "name": "libext2_blkid.so",
+    "base": "0x6fca384000",
+    "size": 135168,
+    "path": "/system/lib64/libext2_blkid.so"
+  },
+  {
+    "name": "libremotedisplay.so",
+    "base": "0x6fc7b44000",
+    "size": 217088,
+    "path": "/system/lib64/libremotedisplay.so"
+  },
+  {
+    "name": "libquramimagecodec.so",
+    "base": "0x6fc7d43000",
+    "size": 196608,
+    "path": "/system/lib64/libquramimagecodec.so"
+  },
+  {
+    "name": "libimagefilter.so",
+    "base": "0x6fca840000",
+    "size": 200704,
+    "path": "/system/lib64/libimagefilter.so"
+  },
+  {
+    "name": "libhwuibridge.so",
+    "base": "0x6fc7b9f000",
+    "size": 135168,
+    "path": "/system/lib64/libhwuibridge.so"
+  },
+  {
+    "name": "libSEC_EGL.so",
+    "base": "0x6fc9d93000",
+    "size": 135168,
+    "path": "/system/lib64/libSEC_EGL.so"
+  },
+  {
+    "name": "libbpf.so",
+    "base": "0x6fcb116000",
+    "size": 135168,
+    "path": "/system/lib64/libbpf.so"
+  },
+  {
+    "name": "libnetdutils.so",
+    "base": "0x6fc7d97000",
+    "size": 135168,
+    "path": "/system/lib64/libnetdutils.so"
+  },
+  {
+    "name": "libmemtrack.so",
+    "base": "0x6fcabd4000",
+    "size": 135168,
+    "path": "/system/lib64/libmemtrack.so"
+  },
+  {
+    "name": "libandroidfw.so",
+    "base": "0x6fc6640000",
+    "size": 524288,
+    "path": "/system/lib64/libandroidfw.so"
+  },
+  {
+    "name": "libappfuse.so",
+    "base": "0x6fc7c03000",
+    "size": 135168,
+    "path": "/system/lib64/libappfuse.so"
+  },
+  {
+    "name": "libbase.so",
+    "base": "0x6fc7640000",
+    "size": 200704,
+    "path": "/system/lib64/libbase.so"
+  },
+  {
+    "name": "libcrypto.so",
+    "base": "0x6fc9a07000",
+    "size": 1515520,
+    "path": "/system/lib64/libcrypto.so"
+  },
+  {
+    "name": "libnativehelper.so",
+    "base": "0x6fcb000000",
+    "size": 135168,
+    "path": "/system/lib64/libnativehelper.so"
+  },
+  {
+    "name": "libdebuggerd_client.so",
+    "base": "0x6fc8018000",
+    "size": 135168,
+    "path": "/system/lib64/libdebuggerd_client.so"
+  },
+  {
+    "name": "libui.so",
+    "base": "0x6fc7efb000",
+    "size": 266240,
+    "path": "/system/lib64/libui.so"
+  },
+  {
+    "name": "libgraphicsenv.so",
+    "base": "0x6fcb0d0000",
+    "size": 135168,
+    "path": "/system/lib64/libgraphicsenv.so"
+  },
+  {
+    "name": "libgui.so",
+    "base": "0x6fc9dd9000",
+    "size": 806912,
+    "path": "/system/lib64/libgui.so"
+  },
+  {
+    "name": "libsensor.so",
+    "base": "0x6fc9c0d000",
+    "size": 188416,
+    "path": "/system/lib64/libsensor.so"
+  },
+  {
+    "name": "libinput.so",
+    "base": "0x6fc798f000",
+    "size": 360448,
+    "path": "/system/lib64/libinput.so"
+  },
+  {
+    "name": "libcamera_client.so",
+    "base": "0x6fc7c84000",
+    "size": 598016,
+    "path": "/system/lib64/libcamera_client.so"
+  },
+  {
+    "name": "libcamera_metadata.so",
+    "base": "0x6fc86a0000",
+    "size": 131072,
+    "path": "/system/lib64/libcamera_metadata.so"
+  },
+  {
+    "name": "libsqlite.so",
+    "base": "0x6fc66ea000",
+    "size": 1630208,
+    "path": "/system/lib64/libsqlite.so"
+  },
+  {
+    "name": "libEGL.so",
+    "base": "0x6fca7cb000",
+    "size": 327680,
+    "path": "/system/lib64/libEGL.so"
+  },
+  {
+    "name": "libGLESv1_CM.so",
+    "base": "0x6fca641000",
+    "size": 135168,
+    "path": "/system/lib64/libGLESv1_CM.so"
+  },
+  {
+    "name": "libGLESv2.so",
+    "base": "0x6fca889000",
+    "size": 200704,
+    "path": "/system/lib64/libGLESv2.so"
+  },
+  {
+    "name": "libvulkan.so",
+    "base": "0x6fc6e6d000",
+    "size": 319488,
+    "path": "/system/lib64/libvulkan.so"
+  },
+  {
+    "name": "libziparchive.so",
+    "base": "0x6fc6102000",
+    "size": 77824,
+    "path": "/system/lib64/libziparchive.so"
+  },
+  {
+    "name": "libETC1.so",
+    "base": "0x6fc7a5d000",
+    "size": 135168,
+    "path": "/system/lib64/libETC1.so"
+  },
+  {
+    "name": "libhardware.so",
+    "base": "0x6fc651f000",
+    "size": 135168,
+    "path": "/system/lib64/libhardware.so"
+  },
+  {
+    "name": "libhardware_legacy.so",
+    "base": "0x6fcb05e000",
+    "size": 135168,
+    "path": "/system/lib64/libhardware_legacy.so"
+  },
+  {
+    "name": "libselinux.so",
+    "base": "0x6fc6482000",
+    "size": 204800,
+    "path": "/system/lib64/libselinux.so"
+  },
+  {
+    "name": "libicuuc.so",
+    "base": "0x6fc86da000",
+    "size": 1990656,
+    "path": "/system/lib64/libicuuc.so"
+  },
+  {
+    "name": "libmedia.so",
+    "base": "0x6fc7083000",
+    "size": 1011712,
+    "path": "/system/lib64/libmedia.so"
+  },
+  {
+    "name": "libmediametrics.so",
+    "base": "0x6fc7681000",
+    "size": 77824,
+    "path": "/system/lib64/libmediametrics.so"
+  },
+  {
+    "name": "libaudioclient.so",
+    "base": "0x6fcb2cf000",
+    "size": 880640,
+    "path": "/system/lib64/libaudioclient.so"
+  },
+  {
+    "name": "libjpeg.so",
+    "base": "0x6fcb3c3000",
+    "size": 528384,
+    "path": "/system/lib64/libjpeg.so"
+  },
+  {
+    "name": "libusbhost.so",
+    "base": "0x6fcab58000",
+    "size": 135168,
+    "path": "/system/lib64/libusbhost.so"
+  },
+  {
+    "name": "libharfbuzz_ng.so",
+    "base": "0x6fca2c3000",
+    "size": 593920,
+    "path": "/system/lib64/libharfbuzz_ng.so"
+  },
+  {
+    "name": "libz.so",
+    "base": "0x6fcaa47000",
+    "size": 200704,
+    "path": "/system/lib64/libz.so"
+  },
+  {
+    "name": "libpdfium.so",
+    "base": "0x6fc6898000",
+    "size": 5906432,
+    "path": "/system/lib64/libpdfium.so"
+  },
+  {
+    "name": "libimg_utils.so",
+    "base": "0x6fc700e000",
+    "size": 155648,
+    "path": "/system/lib64/libimg_utils.so"
+  },
+  {
+    "name": "libnetd_client.so",
+    "base": "0x6fc9998000",
+    "size": 135168,
+    "path": "/system/lib64/libnetd_client.so"
+  },
+  {
+    "name": "libsoundtrigger.so",
+    "base": "0x6fc8149000",
+    "size": 184320,
+    "path": "/system/lib64/libsoundtrigger.so"
+  },
+  {
+    "name": "libminikin.so",
+    "base": "0x6fca4c4000",
+    "size": 229376,
+    "path": "/system/lib64/libminikin.so"
+  },
+  {
+    "name": "libprocessgroup.so",
+    "base": "0x6fc7347000",
+    "size": 135168,
+    "path": "/system/lib64/libprocessgroup.so"
+  },
+  {
+    "name": "libnativebridge.so",
+    "base": "0x6fca90e000",
+    "size": 135168,
+    "path": "/system/lib64/libnativebridge.so"
+  },
+  {
+    "name": "libmemunreachable.so",
+    "base": "0x6fcaa98000",
+    "size": 266240,
+    "path": "/system/lib64/libmemunreachable.so"
+  },
+  {
+    "name": "libhidlbase.so",
+    "base": "0x6fca25d000",
+    "size": 135168,
+    "path": "/system/lib64/libhidlbase.so"
+  },
+  {
+    "name": "libhidltransport.so",
+    "base": "0x6fcb546000",
+    "size": 487424,
+    "path": "/system/lib64/libhidltransport.so"
+  },
+  {
+    "name": "libvintf.so",
+    "base": "0x6fc7dd2000",
+    "size": 647168,
+    "path": "/system/lib64/libvintf.so"
+  },
+  {
+    "name": "libnativewindow.so",
+    "base": "0x6fc7f57000",
+    "size": 135168,
+    "path": "/system/lib64/libnativewindow.so"
+  },
+  {
+    "name": "libhwui.so",
+    "base": "0x6fc5802000",
+    "size": 8986624,
+    "path": "/system/lib64/libhwui.so"
+  },
+  {
+    "name": "libstatslog.so",
+    "base": "0x6fc63c6000",
+    "size": 200704,
+    "path": "/system/lib64/libstatslog.so"
+  },
+  {
+    "name": "libsecnativefeature.so",
+    "base": "0x6fc8292000",
+    "size": 135168,
+    "path": "/system/lib64/libsecnativefeature.so"
+  },
+  {
+    "name": "libperflog.so",
+    "base": "0x6fca198000",
+    "size": 135168,
+    "path": "/system/lib64/libperflog.so"
+  },
+  {
+    "name": "libutilscallstack.so",
+    "base": "0x6fc729e000",
+    "size": 135168,
+    "path": "/system/lib64/libutilscallstack.so"
+  },
+  {
+    "name": "libvndksupport.so",
+    "base": "0x6fca684000",
+    "size": 135168,
+    "path": "/system/lib64/libvndksupport.so"
+  },
+  {
+    "name": "libmedia_omx.so",
+    "base": "0x6fca40f000",
+    "size": 425984,
+    "path": "/system/lib64/libmedia_omx.so"
+  },
+  {
+    "name": "libmediaextractor.so",
+    "base": "0x6fc7066000",
+    "size": 86016,
+    "path": "/system/lib64/libmediaextractor.so"
+  },
+  {
+    "name": "libaudiomanager.so",
+    "base": "0x6fc9d46000",
+    "size": 135168,
+    "path": "/system/lib64/libaudiomanager.so"
+  },
+  {
+    "name": "libstagefright.so",
+    "base": "0x6fc8342000",
+    "size": 3121152,
+    "path": "/system/lib64/libstagefright.so"
+  },
+  {
+    "name": "libstagefright_foundation.so",
+    "base": "0x6fcac14000",
+    "size": 331776,
+    "path": "/system/lib64/libstagefright_foundation.so"
+  },
+  {
+    "name": "libstagefright_http_support.so",
+    "base": "0x6fcaef4000",
+    "size": 24576,
+    "path": "/system/lib64/libstagefright_http_support.so"
+  },
+  {
+    "name": "libext2_uuid.so",
+    "base": "0x6fca6cb000",
+    "size": 135168,
+    "path": "/system/lib64/libext2_uuid.so"
+  },
+  {
+    "name": "libclang_rt.ubsan_standalone-aarch64-android.so",
+    "base": "0x6fc8ac1000",
+    "size": 12124160,
+    "path": "/system/lib64/libclang_rt.ubsan_standalone-aarch64-android.so"
+  },
+  {
+    "name": "libhidlmemory.so",
+    "base": "0x6fc804d000",
+    "size": 135168,
+    "path": "/system/lib64/libhidlmemory.so"
+  },
+  {
+    "name": "android.hidl.memory@1.0.so",
+    "base": "0x6fcae41000",
+    "size": 253952,
+    "path": "/system/lib64/android.hidl.memory@1.0.so"
+  },
+  {
+    "name": "android.hidl.token@1.0-utils.so",
+    "base": "0x6fc88da000",
+    "size": 135168,
+    "path": "/system/lib64/android.hidl.token@1.0-utils.so"
+  },
+  {
+    "name": "android.hardware.graphics.common@1.0.so",
+    "base": "0x6fc60cd000",
+    "size": 135168,
+    "path": "/system/lib64/android.hardware.graphics.common@1.0.so"
+  },
+  {
+    "name": "android.hardware.graphics.bufferqueue@1.0.so",
+    "base": "0x6fc9922000",
+    "size": 311296,
+    "path": "/system/lib64/android.hardware.graphics.bufferqueue@1.0.so"
+  },
+  {
+    "name": "android.hardware.media@1.0.so",
+    "base": "0x6fca78a000",
+    "size": 135168,
+    "path": "/system/lib64/android.hardware.media@1.0.so"
+  },
+  {
+    "name": "android.hardware.media.omx@1.0.so",
+    "base": "0x6fc6147000",
+    "size": 475136,
+    "path": "/system/lib64/android.hardware.media.omx@1.0.so"
+  },
+  {
+    "name": "libstdc++.so",
+    "base": "0x6fc6ecd000",
+    "size": 135168,
+    "path": "/system/lib64/libstdc++.so"
+  },
+  {
+    "name": "libbacktrace.so",
+    "base": "0x6fcb142000",
+    "size": 200704,
+    "path": "/system/lib64/libbacktrace.so"
+  },
+  {
+    "name": "android.hardware.memtrack@1.0.so",
+    "base": "0x6fca98d000",
+    "size": 196608,
+    "path": "/system/lib64/android.hardware.memtrack@1.0.so"
+  },
+  {
+    "name": "android.hardware.graphics.allocator@2.0.so",
+    "base": "0x6fc864d000",
+    "size": 196608,
+    "path": "/system/lib64/android.hardware.graphics.allocator@2.0.so"
+  },
+  {
+    "name": "android.hardware.graphics.common@1.1.so",
+    "base": "0x6fc639c000",
+    "size": 135168,
+    "path": "/system/lib64/android.hardware.graphics.common@1.1.so"
+  },
+  {
+    "name": "android.hardware.graphics.mapper@2.0.so",
+    "base": "0x6fca289000",
+    "size": 192512,
+    "path": "/system/lib64/android.hardware.graphics.mapper@2.0.so"
+  },
+  {
+    "name": "android.hardware.graphics.mapper@2.1.so",
+    "base": "0x6fcb085000",
+    "size": 192512,
+    "path": "/system/lib64/android.hardware.graphics.mapper@2.1.so"
+  },
+  {
+    "name": "android.hardware.configstore@1.0.so",
+    "base": "0x6fca950000",
+    "size": 192512,
+    "path": "/system/lib64/android.hardware.configstore@1.0.so"
+  },
+  {
+    "name": "android.hardware.configstore-utils.so",
+    "base": "0x6fc98d5000",
+    "size": 135168,
+    "path": "/system/lib64/android.hardware.configstore-utils.so"
+  },
+  {
+    "name": "libsync.so",
+    "base": "0x6fca1cc000",
+    "size": 135168,
+    "path": "/system/lib64/libsync.so"
+  },
+  {
+    "name": "libbufferhubqueue.so",
+    "base": "0x6fca3c1000",
+    "size": 200704,
+    "path": "/system/lib64/libbufferhubqueue.so"
+  },
+  {
+    "name": "libpdx_default_transport.so",
+    "base": "0x6fcb69c000",
+    "size": 532480,
+    "path": "/system/lib64/libpdx_default_transport.so"
+  },
+  {
+    "name": "libremotedesktop_client.knox.samsung.so",
+    "base": "0x6fc64c2000",
+    "size": 122880,
+    "path": "/system/lib64/libremotedesktop_client.knox.samsung.so"
+  },
+  {
+    "name": "libicui18n.so",
+    "base": "0x6fc73a6000",
+    "size": 2719744,
+    "path": "/system/lib64/libicui18n.so"
+  },
+  {
+    "name": "libpcre2.so",
+    "base": "0x6fc7214000",
+    "size": 266240,
+    "path": "/system/lib64/libpcre2.so"
+  },
+  {
+    "name": "libpackagelistparser.so",
+    "base": "0x6fc8087000",
+    "size": 135168,
+    "path": "/system/lib64/libpackagelistparser.so"
+  },
+  {
+    "name": "libSEF.quram.so",
+    "base": "0x6fc7a00000",
+    "size": 262144,
+    "path": "/system/lib64/libSEF.quram.so"
+  },
+  {
+    "name": "libsonivox.so",
+    "base": "0x6fc8188000",
+    "size": 491520,
+    "path": "/system/lib64/libsonivox.so"
+  },
+  {
+    "name": "libexpat.so",
+    "base": "0x6fc7ada000",
+    "size": 266240,
+    "path": "/system/lib64/libexpat.so"
+  },
+  {
+    "name": "libaudioutils.so",
+    "base": "0x6fc6fc6000",
+    "size": 200704,
+    "path": "/system/lib64/libaudioutils.so"
+  },
+  {
+    "name": "libedmnativehelper.so",
+    "base": "0x6fcb290000",
+    "size": 131072,
+    "path": "/system/lib64/libedmnativehelper.so"
+  },
+  {
+    "name": "libmedia_helper.so",
+    "base": "0x6fc82d4000",
+    "size": 172032,
+    "path": "/system/lib64/libmedia_helper.so"
+  },
+  {
+    "name": "libsecaudioinfo.so",
+    "base": "0x6fc6f4c000",
+    "size": 135168,
+    "path": "/system/lib64/libsecaudioinfo.so"
+  },
+  {
+    "name": "libsecaudiocoreutils.so",
+    "base": "0x6fc6f02000",
+    "size": 135168,
+    "path": "/system/lib64/libsecaudiocoreutils.so"
+  },
+  {
+    "name": "libft2.so",
+    "base": "0x6fcaf1e000",
+    "size": 839680,
+    "path": "/system/lib64/libft2.so"
+  },
+  {
+    "name": "libhidl-gen-utils.so",
+    "base": "0x6fc9ec8000",
+    "size": 528384,
+    "path": "/system/lib64/libhidl-gen-utils.so"
+  },
+  {
+    "name": "libtinyxml2.so",
+    "base": "0x6fcab95000",
+    "size": 135168,
+    "path": "/system/lib64/libtinyxml2.so"
+  },
+  {
+    "name": "libdng_sdk.so",
+    "base": "0x6fc626c000",
+    "size": 1089536,
+    "path": "/system/lib64/libdng_sdk.so"
+  },
+  {
+    "name": "libheif.so",
+    "base": "0x6fca9ef000",
+    "size": 61440,
+    "path": "/system/lib64/libheif.so"
+  },
+  {
+    "name": "libpiex.so",
+    "base": "0x6fc7f85000",
+    "size": 200704,
+    "path": "/system/lib64/libpiex.so"
+  },
+  {
+    "name": "libpng.so",
+    "base": "0x6fc6416000",
+    "size": 397312,
+    "path": "/system/lib64/libpng.so"
+  },
+  {
+    "name": "libprotobuf-cpp-lite.so",
+    "base": "0x6fc9ce8000",
+    "size": 331776,
+    "path": "/system/lib64/libprotobuf-cpp-lite.so"
+  },
+  {
+    "name": "libRScpp.so",
+    "base": "0x6fca0db000",
+    "size": 397312,
+    "path": "/system/lib64/libRScpp.so"
+  },
+  {
+    "name": "libimageextractor.so",
+    "base": "0x6fcb50d000",
+    "size": 200704,
+    "path": "/system/lib64/libimageextractor.so"
+  },
+  {
+    "name": "libsmartfitting_interface.so",
+    "base": "0x6fc7c4f000",
+    "size": 122880,
+    "path": "/system/lib64/libsmartfitting_interface.so"
+  },
+  {
+    "name": "libcodecsolution.so",
+    "base": "0x6fcaa12000",
+    "size": 126976,
+    "path": "/system/lib64/libcodecsolution.so"
+  },
+  {
+    "name": "libapex_cmn.so",
+    "base": "0x6fc7847000",
+    "size": 323584,
+    "path": "/system/lib64/libapex_cmn.so"
+  },
+  {
+    "name": "libFrucSSMLib.so",
+    "base": "0x6fc9f98000",
+    "size": 1110016,
+    "path": "/system/lib64/libFrucSSMLib.so"
+  },
+  {
+    "name": "libpredeflicker_native.so",
+    "base": "0x6fcacdc000",
+    "size": 598016,
+    "path": "/system/lib64/libpredeflicker_native.so"
+  },
+  {
+    "name": "libdrmframework.so",
+    "base": "0x6fc7bc2000",
+    "size": 241664,
+    "path": "/system/lib64/libdrmframework.so"
+  },
+  {
+    "name": "libion.so",
+    "base": "0x6fcb240000",
+    "size": 135168,
+    "path": "/system/lib64/libion.so"
+  },
+  {
+    "name": "libomafldrm.so",
+    "base": "0x6fcb194000",
+    "size": 593920,
+    "path": "/system/lib64/libomafldrm.so"
+  },
+  {
+    "name": "libmediautils.so",
+    "base": "0x6fc6215000",
+    "size": 102400,
+    "path": "/system/lib64/libmediautils.so"
+  },
+  {
+    "name": "libstagefright_codecbase.so",
+    "base": "0x6fc7fdc000",
+    "size": 40960,
+    "path": "/system/lib64/libstagefright_codecbase.so"
+  },
+  {
+    "name": "libstagefright_omx_utils.so",
+    "base": "0x6fc76ed000",
+    "size": 32768,
+    "path": "/system/lib64/libstagefright_omx_utils.so"
+  },
+  {
+    "name": "libstagefright_xmlparser.so",
+    "base": "0x6fc99d7000",
+    "size": 86016,
+    "path": "/system/lib64/libstagefright_xmlparser.so"
+  },
+  {
+    "name": "libstagefright_mlb_cache.so",
+    "base": "0x6fc9c45000",
+    "size": 36864,
+    "path": "/system/lib64/libstagefright_mlb_cache.so"
+  },
+  {
+    "name": "libhidlallocatorutils.so",
+    "base": "0x6fca211000",
+    "size": 135168,
+    "path": "/system/lib64/libhidlallocatorutils.so"
+  },
+  {
+    "name": "android.hidl.allocator@1.0.so",
+    "base": "0x6fc7185000",
+    "size": 196608,
+    "path": "/system/lib64/android.hidl.allocator@1.0.so"
+  },
+  {
+    "name": "android.hardware.cas.native@1.0.so",
+    "base": "0x6fca8cf000",
+    "size": 192512,
+    "path": "/system/lib64/android.hardware.cas.native@1.0.so"
+  },
+  {
+    "name": "android.hidl.memory.token@1.0.so",
+    "base": "0x6fcab05000",
+    "size": 196608,
+    "path": "/system/lib64/android.hidl.memory.token@1.0.so"
+  },
+  {
+    "name": "android.hidl.token@1.0.so",
+    "base": "0x6fca14e000",
+    "size": 196608,
+    "path": "/system/lib64/android.hidl.token@1.0.so"
+  },
+  {
+    "name": "libunwind.so",
+    "base": "0x6fc7783000",
+    "size": 630784,
+    "path": "/system/lib64/libunwind.so"
+  },
+  {
+    "name": "libunwindstack.so",
+    "base": "0x6fc9b81000",
+    "size": 442368,
+    "path": "/system/lib64/libunwindstack.so"
+  },
+  {
+    "name": "libdexfile.so",
+    "base": "0x6fca720000",
+    "size": 323584,
+    "path": "/system/lib64/libdexfile.so"
+  },
+  {
+    "name": "android.hardware.configstore@1.1.so",
+    "base": "0x6fcb5cd000",
+    "size": 192512,
+    "path": "/system/lib64/android.hardware.configstore@1.1.so"
+  },
+  {
+    "name": "libspeexresampler.so",
+    "base": "0x6fc7713000",
+    "size": 135168,
+    "path": "/system/lib64/libspeexresampler.so"
+  },
+  {
+    "name": "libfloatingfeature.so",
+    "base": "0x6fc61c4000",
+    "size": 135168,
+    "path": "/system/lib64/libfloatingfeature.so"
+  },
+  {
+    "name": "libsavscmn.so",
+    "base": "0x6fca50b000",
+    "size": 1069056,
+    "path": "/system/lib64/libsavscmn.so"
+  },
+  {
+    "name": "libapex_utils.so",
+    "base": "0x6fc7951000",
+    "size": 135168,
+    "path": "/system/lib64/libapex_utils.so"
+  },
+  {
+    "name": "libGLESv3.so",
+    "base": "0x6fc7743000",
+    "size": 200704,
+    "path": "/system/lib64/libGLESv3.so"
+  },
+  {
+    "name": "libmediadrm.so",
+    "base": "0x6fcb610000",
+    "size": 352256,
+    "path": "/system/lib64/libmediadrm.so"
+  },
+  {
+    "name": "android.hardware.cas@1.0.so",
+    "base": "0x6fc8206000",
+    "size": 303104,
+    "path": "/system/lib64/android.hardware.cas@1.0.so"
+  },
+  {
+    "name": "liblzma.so",
+    "base": "0x6fc78cd000",
+    "size": 290816,
+    "path": "/system/lib64/liblzma.so"
+  },
+  {
+    "name": "libmediadrmmetrics_lite.so",
+    "base": "0x6fc71c0000",
+    "size": 262144,
+    "path": "/system/lib64/libmediadrmmetrics_lite.so"
+  },
+  {
+    "name": "android.hardware.drm@1.0.so",
+    "base": "0x6fc72c3000",
+    "size": 483328,
+    "path": "/system/lib64/android.hardware.drm@1.0.so"
+  },
+  {
+    "name": "android.hardware.drm@1.1.so",
+    "base": "0x6fcb49f000",
+    "size": 364544,
+    "path": "/system/lib64/android.hardware.drm@1.1.so"
+  },
+  {
+    "name": "libart.so",
+    "base": "0x6f44c45000",
+    "size": 6352896,
+    "path": "/system/lib64/libart.so"
+  },
+  {
+    "name": "liblz4.so",
+    "base": "0x6f452c8000",
+    "size": 200704,
+    "path": "/system/lib64/liblz4.so"
+  },
+  {
+    "name": "libmetricslogger.so",
+    "base": "0x6f4535f000",
+    "size": 135168,
+    "path": "/system/lib64/libmetricslogger.so"
+  },
+  {
+    "name": "libtombstoned_client.so",
+    "base": "0x6f45287000",
+    "size": 135168,
+    "path": "/system/lib64/libtombstoned_client.so"
+  },
+  {
+    "name": "libsigchain.so",
+    "base": "0x6f45308000",
+    "size": 200704,
+    "path": "/system/lib64/libsigchain.so"
+  },
+  {
+    "name": "boot.oat",
+    "base": "0x70681000",
+    "size": 9232384,
+    "path": "/system/framework/arm64/boot.oat"
+  },
+  {
+    "name": "boot-core-libart.oat",
+    "base": "0x70f4f000",
+    "size": 4997120,
+    "path": "/system/framework/arm64/boot-core-libart.oat"
+  },
+  {
+    "name": "boot-conscrypt.oat",
+    "base": "0x71413000",
+    "size": 753664,
+    "path": "/system/framework/arm64/boot-conscrypt.oat"
+  },
+  {
+    "name": "boot-okhttp.oat",
+    "base": "0x714cb000",
+    "size": 1060864,
+    "path": "/system/framework/arm64/boot-okhttp.oat"
+  },
+  {
+    "name": "boot-bouncycastle.oat",
+    "base": "0x715ce000",
+    "size": 1695744,
+    "path": "/system/framework/arm64/boot-bouncycastle.oat"
+  },
+  {
+    "name": "boot-apache-xml.oat",
+    "base": "0x7176c000",
+    "size": 1368064,
+    "path": "/system/framework/arm64/boot-apache-xml.oat"
+  },
+  {
+    "name": "boot-ext.oat",
+    "base": "0x718ba000",
+    "size": 1150976,
+    "path": "/system/framework/arm64/boot-ext.oat"
+  },
+  {
+    "name": "boot-framework.oat",
+    "base": "0x719d3000",
+    "size": 45395968,
+    "path": "/system/framework/arm64/boot-framework.oat"
+  },
+  {
+    "name": "boot-telephony-common.oat",
+    "base": "0x7451e000",
+    "size": 7114752,
+    "path": "/system/framework/arm64/boot-telephony-common.oat"
+  },
+  {
+    "name": "boot-voip-common.oat",
+    "base": "0x74be7000",
+    "size": 192512,
+    "path": "/system/framework/arm64/boot-voip-common.oat"
+  },
+  {
+    "name": "boot-ims-common.oat",
+    "base": "0x74c16000",
+    "size": 266240,
+    "path": "/system/framework/arm64/boot-ims-common.oat"
+  },
+  {
+    "name": "boot-sprengine.oat",
+    "base": "0x74c57000",
+    "size": 155648,
+    "path": "/system/framework/arm64/boot-sprengine.oat"
+  },
+  {
+    "name": "boot-android.hidl.base-V1.0-java.oat",
+    "base": "0x74c7d000",
+    "size": 40960,
+    "path": "/system/framework/arm64/boot-android.hidl.base-V1.0-java.oat"
+  },
+  {
+    "name": "boot-android.hidl.manager-V1.0-java.oat",
+    "base": "0x74c87000",
+    "size": 65536,
+    "path": "/system/framework/arm64/boot-android.hidl.manager-V1.0-java.oat"
+  },
+  {
+    "name": "boot-knoxsdk.oat",
+    "base": "0x74c97000",
+    "size": 2179072,
+    "path": "/system/framework/arm64/boot-knoxsdk.oat"
+  },
+  {
+    "name": "boot-timakeystore.oat",
+    "base": "0x74eab000",
+    "size": 212992,
+    "path": "/system/framework/arm64/boot-timakeystore.oat"
+  },
+  {
+    "name": "boot-fipstimakeystore.oat",
+    "base": "0x74edf000",
+    "size": 180224,
+    "path": "/system/framework/arm64/boot-fipstimakeystore.oat"
+  },
+  {
+    "name": "boot-sec_edm.oat",
+    "base": "0x74f0b000",
+    "size": 1425408,
+    "path": "/system/framework/arm64/boot-sec_edm.oat"
+  },
+  {
+    "name": "boot-knoxanalyticssdk.oat",
+    "base": "0x75067000",
+    "size": 40960,
+    "path": "/system/framework/arm64/boot-knoxanalyticssdk.oat"
+  },
+  {
+    "name": "boot-smartbondingservice.oat",
+    "base": "0x75071000",
+    "size": 139264,
+    "path": "/system/framework/arm64/boot-smartbondingservice.oat"
+  },
+  {
+    "name": "boot-ucmopensslenginehelper.oat",
+    "base": "0x75093000",
+    "size": 32768,
+    "path": "/system/framework/arm64/boot-ucmopensslenginehelper.oat"
+  },
+  {
+    "name": "boot-esecomm.oat",
+    "base": "0x7509b000",
+    "size": 90112,
+    "path": "/system/framework/arm64/boot-esecomm.oat"
+  },
+  {
+    "name": "boot-securetimersdk.oat",
+    "base": "0x750b1000",
+    "size": 40960,
+    "path": "/system/framework/arm64/boot-securetimersdk.oat"
+  },
+  {
+    "name": "boot-sec_sdp_sdk.oat",
+    "base": "0x750bb000",
+    "size": 147456,
+    "path": "/system/framework/arm64/boot-sec_sdp_sdk.oat"
+  },
+  {
+    "name": "boot-sec_sdp_hidden_sdk.oat",
+    "base": "0x750df000",
+    "size": 36864,
+    "path": "/system/framework/arm64/boot-sec_sdp_hidden_sdk.oat"
+  },
+  {
+    "name": "boot-framework-oahl-backward-compatibility.oat",
+    "base": "0x750e8000",
+    "size": 32768,
+    "path": "/system/framework/arm64/boot-framework-oahl-backward-compatibility.oat"
+  },
+  {
+    "name": "boot-android.test.base.oat",
+    "base": "0x750f0000",
+    "size": 61440,
+    "path": "/system/framework/arm64/boot-android.test.base.oat"
+  },
+  {
+    "name": "boot-knoxvpnuidtag.oat",
+    "base": "0x750ff000",
+    "size": 36864,
+    "path": "/system/framework/arm64/boot-knoxvpnuidtag.oat"
+  },
+  {
+    "name": "boot-SemAudioThumbnail.oat",
+    "base": "0x75108000",
+    "size": 36864,
+    "path": "/system/framework/arm64/boot-SemAudioThumbnail.oat"
+  },
+  {
+    "name": "boot-knoxguard.oat",
+    "base": "0x75111000",
+    "size": 45056,
+    "path": "/system/framework/arm64/boot-knoxguard.oat"
+  },
+  {
+    "name": "boot-tcmiface.oat",
+    "base": "0x7511c000",
+    "size": 32768,
+    "path": "/system/framework/arm64/boot-tcmiface.oat"
+  },
+  {
+    "name": "boot-telephony-ext.oat",
+    "base": "0x75124000",
+    "size": 45056,
+    "path": "/system/framework/arm64/boot-telephony-ext.oat"
+  },
+  {
+    "name": "boot-oem-services.oat",
+    "base": "0x7512f000",
+    "size": 32768,
+    "path": "/system/framework/arm64/boot-oem-services.oat"
+  },
+  {
+    "name": "boot-drutils.oat",
+    "base": "0x75137000",
+    "size": 36864,
+    "path": "/system/framework/arm64/boot-drutils.oat"
+  },
+  {
+    "name": "boot-QPerformance.oat",
+    "base": "0x75140000",
+    "size": 40960,
+    "path": "/system/framework/arm64/boot-QPerformance.oat"
+  },
+  {
+    "name": "boot-UxPerformance.oat",
+    "base": "0x7514a000",
+    "size": 36864,
+    "path": "/system/framework/arm64/boot-UxPerformance.oat"
+  },
+  {
+    "name": "libadbconnection.so",
+    "base": "0x6f453ce000",
+    "size": 135168,
+    "path": "/system/lib64/libadbconnection.so"
+  },
+  {
+    "name": "libandroid.so",
+    "base": "0x6f41701000",
+    "size": 253952,
+    "path": "/system/lib64/libandroid.so"
+  },
+  {
+    "name": "libaaudio.so",
+    "base": "0x6f41682000",
+    "size": 385024,
+    "path": "/system/lib64/libaaudio.so"
+  },
+  {
+    "name": "libcamera2ndk.so",
+    "base": "0x6f41502000",
+    "size": 229376,
+    "path": "/system/lib64/libcamera2ndk.so"
+  },
+  {
+    "name": "libmediandk.so",
+    "base": "0x6f41448000",
+    "size": 204800,
+    "path": "/system/lib64/libmediandk.so"
+  },
+  {
+    "name": "libmedia_jni.so",
+    "base": "0x6f415c3000",
+    "size": 622592,
+    "path": "/system/lib64/libmedia_jni.so"
+  },
+  {
+    "name": "libmidi.so",
+    "base": "0x6f4148c000",
+    "size": 196608,
+    "path": "/system/lib64/libmidi.so"
+  },
+  {
+    "name": "libsemcamera_jni.camera.samsung.so",
+    "base": "0x6f41413000",
+    "size": 135168,
+    "path": "/system/lib64/libsemcamera_jni.camera.samsung.so"
+  },
+  {
+    "name": "libmtp.so",
+    "base": "0x6f4138a000",
+    "size": 368640,
+    "path": "/system/lib64/libmtp.so"
+  },
+  {
+    "name": "libexif.so",
+    "base": "0x6f4155a000",
+    "size": 356352,
+    "path": "/system/lib64/libexif.so"
+  },
+  {
+    "name": "libasyncio.so",
+    "base": "0x6f414c8000",
+    "size": 135168,
+    "path": "/system/lib64/libasyncio.so"
+  },
+  {
+    "name": "libjnigraphics.so",
+    "base": "0x6f41341000",
+    "size": 135168,
+    "path": "/system/lib64/libjnigraphics.so"
+  },
+  {
+    "name": "libneuralnetworks.so",
+    "base": "0x6f41097000",
+    "size": 2781184,
+    "path": "/system/lib64/libneuralnetworks.so"
+  },
+  {
+    "name": "libtextclassifier_hash.so",
+    "base": "0x6f40f92000",
+    "size": 135168,
+    "path": "/system/lib64/libtextclassifier_hash.so"
+  },
+  {
+    "name": "android.hardware.neuralnetworks@1.0.so",
+    "base": "0x6f40fc4000",
+    "size": 303104,
+    "path": "/system/lib64/android.hardware.neuralnetworks@1.0.so"
+  },
+  {
+    "name": "android.hardware.neuralnetworks@1.1.so",
+    "base": "0x6f41046000",
+    "size": 192512,
+    "path": "/system/lib64/android.hardware.neuralnetworks@1.1.so"
+  },
+  {
+    "name": "libOpenMAXAL.so",
+    "base": "0x6f40f4f000",
+    "size": 135168,
+    "path": "/system/lib64/libOpenMAXAL.so"
+  },
+  {
+    "name": "libOpenSLES.so",
+    "base": "0x6f40f15000",
+    "size": 135168,
+    "path": "/system/lib64/libOpenSLES.so"
+  },
+  {
+    "name": "libRS.so",
+    "base": "0x6f40e4b000",
+    "size": 200704,
+    "path": "/system/lib64/libRS.so"
+  },
+  {
+    "name": "android.hardware.renderscript@1.0.so",
+    "base": "0x6f40e8f000",
+    "size": 438272,
+    "path": "/system/lib64/android.hardware.renderscript@1.0.so"
+  },
+  {
+    "name": "libwebviewchromium_plat_support.so",
+    "base": "0x6f40e00000",
+    "size": 135168,
+    "path": "/system/lib64/libwebviewchromium_plat_support.so"
+  },
+  {
+    "name": "libjavacore.so",
+    "base": "0x6f40da0000",
+    "size": 385024,
+    "path": "/system/lib64/libjavacore.so"
+  },
+  {
+    "name": "libopenjdk.so",
+    "base": "0x6f3f611000",
+    "size": 323584,
+    "path": "/system/lib64/libopenjdk.so"
+  },
+  {
+    "name": "libssl.so",
+    "base": "0x6f3f545000",
+    "size": 397312,
+    "path": "/system/lib64/libssl.so"
+  },
+  {
+    "name": "libopenjdkjvm.so",
+    "base": "0x6f3f5cd000",
+    "size": 135168,
+    "path": "/system/lib64/libopenjdkjvm.so"
+  },
+  {
+    "name": "libart-compiler.so",
+    "base": "0x6f3efc8000",
+    "size": 3231744,
+    "path": "/system/lib64/libart-compiler.so"
+  },
+  {
+    "name": "libvixl-arm.so",
+    "base": "0x6f3f30c000",
+    "size": 1220608,
+    "path": "/system/lib64/libvixl-arm.so"
+  },
+  {
+    "name": "libvixl-arm64.so",
+    "base": "0x6f3f440000",
+    "size": 991232,
+    "path": "/system/lib64/libvixl-arm64.so"
+  },
+  {
+    "name": "libsoundpool.so",
+    "base": "0x6f3cb17000",
+    "size": 135168,
+    "path": "/system/lib64/libsoundpool.so"
+  },
+  {
+    "name": "libsoundextractor.so",
+    "base": "0x6f3ec62000",
+    "size": 90112,
+    "path": "/system/lib64/libsoundextractor.so"
+  },
+  {
+    "name": "libvorbisidec.so",
+    "base": "0x6f3cb52000",
+    "size": 266240,
+    "path": "/system/lib64/libvorbisidec.so"
+  },
+  {
+    "name": "libsavsac.so",
+    "base": "0x6f3cbc2000",
+    "size": 1974272,
+    "path": "/system/lib64/libsavsac.so"
+  },
+  {
+    "name": "libjavacrypto.so",
+    "base": "0x6f3ca9d000",
+    "size": 385024,
+    "path": "/system/lib64/libjavacrypto.so"
+  },
+  {
+    "name": "libmdf.so",
+    "base": "0x6f3bf06000",
+    "size": 217088,
+    "path": "/system/lib64/libmdf.so"
+  },
+  {
+    "name": "libsecure_storage.so",
+    "base": "0x6f3ca46000",
+    "size": 237568,
+    "path": "/system/lib64/libsecure_storage.so"
+  },
+  {
+    "name": "android.hardware.graphics.mapper@2.0-impl.so",
+    "base": "0x6f3bec5000",
+    "size": 135168,
+    "path": "/system/vendor/lib64/hw/android.hardware.graphics.mapper@2.0-impl.so"
+  },
+  {
+    "name": "libcompiler_rt.so",
+    "base": "0x6f3bd91000",
+    "size": 712704,
+    "path": "/system/lib64/libcompiler_rt.so"
+  },
+  {
+    "name": "libwebviewchromium_loader.so",
+    "base": "0x6f3d19a000",
+    "size": 135168,
+    "path": "/system/lib64/libwebviewchromium_loader.so"
+  },
+  {
+    "name": "org.apache.http.legacy.boot.odex",
+    "base": "0x6f2f099000",
+    "size": 3293184,
+    "path": "/system/framework/oat/arm64/org.apache.http.legacy.boot.odex"
+  },
+  {
+    "name": "base.odex",
+    "base": "0x6f2e8c7000",
+    "size": 8032256,
+    "path": "/data/app/com.epicgames.fortnite-oYIFs4HKCoRIyLMjT__UvA==/oat/arm64/base.odex"
+  },
+  {
+    "name": "libEGL_adreno.so",
+    "base": "0x6f2e3d6000",
+    "size": 110592,
+    "path": "/system/vendor/lib64/egl/libEGL_adreno.so"
+  },
+  {
+    "name": "libadreno_utils.so",
+    "base": "0x6f2e3a5000",
+    "size": 81920,
+    "path": "/system/vendor/lib64/libadreno_utils.so"
+  },
+  {
+    "name": "libgsl.so",
+    "base": "0x6f2e202000",
+    "size": 1458176,
+    "path": "/system/vendor/lib64/libgsl.so"
+  },
+  {
+    "name": "libfrida-gadget.so",
+    "base": "0x6f2cecf000",
+    "size": 20086784,
+    "path": "/data/app/com.epicgames.fortnite-oYIFs4HKCoRIyLMjT__UvA==/lib/arm64/libfrida-gadget.so"
+  },
+  {
+    "name": "libGLESv2_adreno.so",
+    "base": "0x6f2b247000",
+    "size": 4685824,
+    "path": "/system/vendor/lib64/egl/libGLESv2_adreno.so"
+  },
+  {
+    "name": "libllvm-glnext.so",
+    "base": "0x6f2b6e8000",
+    "size": 15822848,
+    "path": "/system/vendor/lib64/libllvm-glnext.so"
+  },
+  {
+    "name": "libGLESv1_CM_adreno.so",
+    "base": "0x6f2c980000",
+    "size": 253952,
+    "path": "/system/vendor/lib64/egl/libGLESv1_CM_adreno.so"
+  },
+  {
+    "name": "eglSubDriverAndroid.so",
+    "base": "0x6f2a71b000",
+    "size": 77824,
+    "path": "/system/vendor/lib64/egl/eglSubDriverAndroid.so"
+  },
+  {
+    "name": "libgnustl_shared.so",
+    "base": "0x6f2a5c8000",
+    "size": 1253376,
+    "path": "/data/app/com.epicgames.fortnite-oYIFs4HKCoRIyLMjT__UvA==/lib/arm64/libgnustl_shared.so"
+  },
+  {
+    "name": "libUE4.so",
+    "base": "0x6f1ba07000",
+    "size": 239902720,
+    "path": "/data/app/com.epicgames.fortnite-oYIFs4HKCoRIyLMjT__UvA==/lib/arm64/libUE4.so"
+  },
+  {
+    "name": "libSG_Com.so",
+    "base": "0x6f29f07000",
+    "size": 6828032,
+    "path": "/data/app/com.epicgames.fortnite-oYIFs4HKCoRIyLMjT__UvA==/lib/arm64/libSG_Com.so"
+  },
+  {
+    "name": "libvivox-sdk.so",
+    "base": "0x6f1b3d8000",
+    "size": 6361088,
+    "path": "/data/app/com.epicgames.fortnite-oYIFs4HKCoRIyLMjT__UvA==/lib/arm64/libvivox-sdk.so"
+  },
+  {
+    "name": "base.odex",
+    "base": "0x65d88c0000",
+    "size": 34283520,
+    "path": "/data/app/com.android.chrome-F2AMZt4UyfylejbjZez4OQ==/oat/arm64/base.odex"
+  },
+  {
+    "name": "split_autofill_assistant.odex",
+    "base": "0x65d884c000",
+    "size": 458752,
+    "path": "/data/app/com.android.chrome-F2AMZt4UyfylejbjZez4OQ==/oat/arm64/split_autofill_assistant.odex"
+  },
+  {
+    "name": "split_vr.odex",
+    "base": "0x65d870f000",
+    "size": 1232896,
+    "path": "/data/app/com.android.chrome-F2AMZt4UyfylejbjZez4OQ==/oat/arm64/split_vr.odex"
+  },
+  {
+    "name": "libmonochrome.so",
+    "base": "0x6f2f9ee000",
+    "size": 64671744,
+    "path": "/data/app/com.android.chrome-F2AMZt4UyfylejbjZez4OQ==/base.apk!/lib/arm64-v8a/libmonochrome.so"
+  },
+  {
+    "name": "gralloc.msm8998.so",
+    "base": "0x65d6958000",
+    "size": 135168,
+    "path": "/system/vendor/lib64/hw/gralloc.msm8998.so"
+  },
+  {
+    "name": "libqdMetaData.so",
+    "base": "0x65d6795000",
+    "size": 135168,
+    "path": "/system/vendor/lib64/libqdMetaData.so"
+  },
+  {
+    "name": "libgrallocutils.so",
+    "base": "0x65d5e5f000",
+    "size": 135168,
+    "path": "/system/vendor/lib64/libgrallocutils.so"
+  },
+  {
+    "name": "libcrashlytics.so",
+    "base": "0x65d33d4000",
+    "size": 442368,
+    "path": "/data/app/com.epicgames.fortnite-oYIFs4HKCoRIyLMjT__UvA==/lib/arm64/libcrashlytics.so"
+  },
+  {
+    "name": "vulkan.msm8998.so",
+    "base": "0x65d13f3000",
+    "size": 2138112,
+    "path": "/system/vendor/lib64/hw/vulkan.msm8998.so"
+  },
+  {
+    "name": "linux-vdso.so.1",
+    "base": "0x6fcc132000",
+    "size": 4096,
+    "path": "linux-vdso.so.1"
+  },
+  {
+    "name": "linker64",
+    "base": "0x6fcbfde000",
+    "size": 1306624,
+    "path": "/system/bin/linker64"
+  }
+]
